@@ -17,8 +17,8 @@
         }
     ],
     "require": {
-        "php": "^7.2",
-        "illuminate/support": "^6.0||^7.0||^8.0",
+        "php": "^7.4",
+        "illuminate/support": "^7.0||^8.0",
         "league/omnipay": "^3.0"
     },
     "require-dev": {
@@ -26,9 +26,8 @@
         "guzzlehttp/guzzle": "^6.5.5",
         "larapack/dd": "^1.1",
         "omnipay/dummy": "^3.0",
-        "orchestra/testbench": "^4.0||^5.0||^6.0",
-        "phpunit/phpunit": "^8.5||^9.1",
-        "scrutinizer/ocular": "^1.7"
+        "orchestra/testbench": "^5.0||^6.0",
+        "phpunit/phpunit": "^8.5||^9.1"
     },
     "autoload": {
         "psr-4": {
