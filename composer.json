@@ -56,6 +56,5 @@
                 "Omnipay": "DansMaCulotte\\Omnipay\\OmnipayFacade"
             }
         }
-    },
-    "version": "2.0.0"
+    }
 }

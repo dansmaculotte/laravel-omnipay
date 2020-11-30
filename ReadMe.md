@@ -12,7 +12,7 @@
 
 ### Requirements
 
-- PHP 7.2
+- PHP 7.4
 
 You can install the package via composer:
 

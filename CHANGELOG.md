@@ -2,15 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [3.0.0](https://github.com/dansmaculotte/laravel-omnipay/compare/v2.0.0...v3.0.0) (2020-11-30)
-
-
-### ⚠ BREAKING CHANGES
-
-* drop support of lavarel 6
-
-* update dependencies to Laravel 8 support ([acb2179](https://github.com/dansmaculotte/laravel-omnipay/commit/acb21798c28b1b0bc91916549962191a6aa9cdfe))
-
 ### [2.0.1](https://github.com/dansmaculotte/laravel-omnipay/compare/v2.0.0...v2.0.1) (2020-11-20)
 
 ## [2.0.0](https://github.com/dansmaculotte/laravel-omnipay/compare/v1.0.0...v2.0.0) (2020-05-06)
